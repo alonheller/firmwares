@@ -1,25 +1,25 @@
 [
     {
         "name": "dfu_IntelliSensorV2.1-0307.zip",
-        "download_url": "http://updates.econtrolsystems.com/intelliview/ISv2/dfu_IntelliSensorV2.1-0307.zip",
+        "download_url": "https://api.github.com/repos/alonheller/firmwares/contents/IntelliSensorV2.1/dfu_IntelliSensorV2.1-0307.zip?ref=main",
         "hardware": "IntelliSensorV2",
         "type": "file"
     },
     {
         "name": "dfu_IntelliSensorV2.1-0309.zip",
-        "download_url": "http://updates.econtrolsystems.com/intelliview/ISv2/dfu_IntelliSensorV2.1-0309.zip",
+        "download_url": "https://api.github.com/repos/alonheller/firmwares/contents/IntelliSensorV2.1/dfu_IntelliSensorV2.1-0309.zip?ref=main",
         "hardware": "IntelliSensorV2",
         "type": "file"
     },
     {
         "name": "dfu_IntelliSensorV4-0407.zip",
-        "download_url": "http://updates.econtrolsystems.com/intelliview/ISv4/dfu_IntelliSensorV4-0407.zip",
+        "download_url": "https://api.github.com/repos/alonheller/firmwares/contents/IntelliSensorV4/dfu_IntelliSensorV4-0407.zip?ref=main",
         "hardware": "IntelliSensorV4",
         "type": "file"
     },
     {
         "name": "dfu_IntelliSensorV4-0409.zip",
-        "download_url": "http://updates.econtrolsystems.com/intelliview/ISv4/dfu_IntelliSensorV4-0409.zip",
+        "download_url": "https://api.github.com/repos/alonheller/firmwares/contents/IntelliSensorV4/dfu_IntelliSensorV4-0409.zip?ref=main",
         "hardware": "IntelliSensorV4",
         "type": "file"
     }
